@@ -1,0 +1,42 @@
+.containerGraph {
+    position: relative;
+    background: #FBFBFB;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0212249);
+    border-radius: 5px;
+    width: 835px;
+    height: 320px;
+}
+
+.customTooltip {
+    background-color: #E60000;
+    border: none;
+    margin-left: 13px;
+}
+
+.customTooltip p {
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 4px 11px;
+    font-size: 12px;
+}
+
+.kiloLegend,
+.caloLegend {
+    margin-left: 10px;
+}
+
+.kiloLegend {
+    margin-right: 32px;
+}
+
+.title {
+    position: absolute;
+    height: 24px;
+    left: 3.83%;
+    right: 80%;
+    top: 24px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #20253A;
+}
